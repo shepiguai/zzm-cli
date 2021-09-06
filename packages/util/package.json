@@ -1,0 +1,29 @@
+{
+  "name": "@zhouhaha/util",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
+  "homepage": "https://github.com/shepiguai/zzm-cli#readme",
+  "license": "ISC",
+  "main": "lib/util.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/shepiguai/zzm-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/shepiguai/zzm-cli/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
