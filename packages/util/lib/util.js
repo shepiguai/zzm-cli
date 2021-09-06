@@ -6,7 +6,7 @@ function util() {
     // TODO
     return {
         sum(a, b) {
-            return a+b+6
+            return a+b+10
         }
     }
 }
