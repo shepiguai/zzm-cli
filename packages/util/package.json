@@ -1,6 +1,6 @@
 {
   "name": "@zhouhaha/util",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
   "homepage": "https://github.com/shepiguai/zzm-cli#readme",
@@ -25,5 +25,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "00073bd4a20abc504b9e448fc34c5c6fba6a9628"
 }
