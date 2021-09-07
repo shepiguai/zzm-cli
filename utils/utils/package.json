@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/shepiguai/zzm-cli.git"
+    "url": "git+https://github.com/shepiguai/zzm-cli.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
