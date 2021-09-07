@@ -1,11 +1,11 @@
 {
-  "name": "@zhouhaha/util",
+  "name": "@zhouhaha/utils",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
   "homepage": "https://github.com/shepiguai/zzm-cli#readme",
   "license": "ISC",
-  "main": "lib/util.js",
+  "main": "lib/utils.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

@@ -1,11 +1,11 @@
 {
-  "name": "@zhouhaha/core",
+  "name": "@zhouhaha/cli",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
   "homepage": "https://github.com/shepiguai/zzm-cli#readme",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "lib/cli.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,12 +13,9 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/shepiguai/zzm-cli.git"
+    "url": "git+https://github.com/shepiguai/zzm-cli.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -27,7 +24,6 @@
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
   "dependencies": {
-    "@zhouhaha/util": "^0.0.1"
-  },
-  "gitHead": "00073bd4a20abc504b9e448fc34c5c6fba6a9628"
+    "colors": "^1.4.0"
+  }
 }

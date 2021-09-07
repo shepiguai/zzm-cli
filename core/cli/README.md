@@ -1,11 +1,11 @@
-# `@zhouhaha/core`
+# `cli`
 
 > TODO: description
 
 ## Usage
 
 ```
-const core = require('@zhouhaha/core');
+const cli = require('cli');
 
 // TODO: DEMONSTRATE API
 ```
