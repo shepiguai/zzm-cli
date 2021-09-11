@@ -1,6 +1,6 @@
 {
   "name": "@zhouhaha/package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
   "homepage": "https://github.com/shepiguai/zzm-cli#readme",
@@ -27,9 +27,9 @@
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
   "dependencies": {
-    "@zhouhaha/format-path": "^1.0.1",
+    "@zhouhaha/format-path": "^1.0.2",
     "@zhouhaha/get-npm-info": "file:../../utils/get-npm-info",
-    "@zhouhaha/utils": "^1.0.1",
+    "@zhouhaha/utils": "^1.0.2",
     "fs-extra": "^7.0.1",
     "npminstall": "^4.11.0",
     "path-exists": "^4.0.0",
