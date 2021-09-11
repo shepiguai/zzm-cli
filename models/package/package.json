@@ -27,12 +27,13 @@
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
   "dependencies": {
-    "@zhouhaha/format-path": "file:../../utils/format-path",
+    "@zhouhaha/format-path": "^1.0.0",
     "@zhouhaha/get-npm-info": "file:../../utils/get-npm-info",
-    "@zhouhaha/utils": "file:../../utils/utils",
+    "@zhouhaha/utils": "^1.0.0",
     "fs-extra": "^7.0.1",
     "npminstall": "^4.11.0",
     "path-exists": "^4.0.0",
     "pkg-dir": "^5.0.0"
-  }
+  },
+  "gitHead": "c7a46ef5e100672b723b0d8733def1ad700da8c8"
 }

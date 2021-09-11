@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@zhouhaha/log": "file:../../utils/log",
-    "@zhouhaha/package": "file:../../models/package"
-  }
+    "@zhouhaha/package": "^1.0.0"
+  },
+  "gitHead": "c7a46ef5e100672b723b0d8733def1ad700da8c8"
 }

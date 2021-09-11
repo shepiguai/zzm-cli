@@ -27,11 +27,11 @@
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
   "dependencies": {
-    "@zhouhaha/exec": "file:../exec",
+    "@zhouhaha/exec": "^1.0.0",
     "@zhouhaha/get-npm-info": "file:../../utils/get-npm-info",
-    "@zhouhaha/init": "file:../../commands/init",
+    "@zhouhaha/init": "^1.0.0",
     "@zhouhaha/log": "file:../../utils/log",
-    "@zhouhaha/utils": "file:../../utils/utils",
+    "@zhouhaha/utils": "^1.0.0",
     "colors": "^1.4.0",
     "commander": "^8.1.0",
     "dotenv": "^10.0.0",
@@ -46,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "93d860c1275b74f2ea4942df043a32853305c909"
+  "gitHead": "c7a46ef5e100672b723b0d8733def1ad700da8c8"
 }
