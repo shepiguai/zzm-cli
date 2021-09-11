@@ -1,6 +1,6 @@
 {
   "name": "@zhouhaha/cli",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
   "homepage": "https://github.com/shepiguai/zzm-cli#readme",
@@ -27,11 +27,11 @@
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
   "dependencies": {
-    "@zhouhaha/get-npm-info": "file:../../utils/get-npm-info",
     "@zhouhaha/exec": "file:../exec",
+    "@zhouhaha/get-npm-info": "file:../../utils/get-npm-info",
+    "@zhouhaha/init": "file:../../commands/init",
     "@zhouhaha/log": "file:../../utils/log",
     "@zhouhaha/utils": "file:../../utils/utils",
-    "@zhouhaha/init": "file:../../commands/init",
     "colors": "^1.4.0",
     "commander": "^8.1.0",
     "dotenv": "^10.0.0",
