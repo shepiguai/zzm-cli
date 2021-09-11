@@ -28,12 +28,12 @@
   },
   "dependencies": {
     "@zhouhaha/format-path": "^1.0.2",
-    "@zhouhaha/get-npm-info": "file:../../utils/get-npm-info",
+    "@zhouhaha/get-npm-info": "^1.0.2",
     "@zhouhaha/utils": "^1.0.2",
     "fs-extra": "^7.0.1",
     "npminstall": "^4.11.0",
     "path-exists": "^4.0.0",
     "pkg-dir": "^5.0.0"
   },
-  "gitHead": "e97889a09c10eaa590b6b498428a808f279cea28"
+  "gitHead": "8268ad2b79eb0773e8cd8924f38e563084c5966f"
 }

@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@zhouhaha/exec": "^1.0.2",
-    "@zhouhaha/get-npm-info": "file:../../utils/get-npm-info",
+    "@zhouhaha/get-npm-info": "^1.0.2",
     "@zhouhaha/init": "^1.0.2",
     "@zhouhaha/log": "file:../../utils/log",
     "@zhouhaha/utils": "^1.0.2",
@@ -46,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "e97889a09c10eaa590b6b498428a808f279cea28"
+  "gitHead": "8268ad2b79eb0773e8cd8924f38e563084c5966f"
 }
