@@ -30,5 +30,5 @@
     "@zhouhaha/log": "file:../../utils/log",
     "@zhouhaha/package": "^1.0.1"
   },
-  "gitHead": "c7a46ef5e100672b723b0d8733def1ad700da8c8"
+  "gitHead": "e97889a09c10eaa590b6b498428a808f279cea28"
 }
