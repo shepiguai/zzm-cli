@@ -1,6 +1,6 @@
 {
   "name": "@zhouhaha/exec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
   "homepage": "https://github.com/shepiguai/zzm-cli#readme",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@zhouhaha/log": "file:../../utils/log",
-    "@zhouhaha/package": "^1.0.0"
+    "@zhouhaha/package": "^1.0.1"
   },
   "gitHead": "c7a46ef5e100672b723b0d8733def1ad700da8c8"
 }
