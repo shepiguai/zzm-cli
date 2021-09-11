@@ -1,5 +1,5 @@
 {
-  "name": "@zhouhaha/utils",
+  "name": "@zhouhaha/exec",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shepiguai/zzm-cli.git"
@@ -23,8 +26,8 @@
   "bugs": {
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "00073bd4a20abc504b9e448fc34c5c6fba6a9628"
+  "dependencies": {
+    "@zhouhaha/package": "file:../../models/package",
+    "@zhouhaha/log": "file:../../utils/log"
+  }
 }

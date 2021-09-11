@@ -1,5 +1,5 @@
 {
-  "name": "@zhouhaha/utils",
+  "name": "get-npm-info",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
@@ -23,8 +23,9 @@
   "bugs": {
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "00073bd4a20abc504b9e448fc34c5c6fba6a9628"
+  "dependencies": {
+    "axios": "^0.21.4",
+    "semver": "^7.3.5",
+    "url-join": "^4.0.1"
+  }
 }

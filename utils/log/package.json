@@ -1,5 +1,5 @@
 {
-  "name": "@zhouhaha/utils",
+  "name": "log",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "charlie.zhou <charlie.zhou@ucloud.cn>",
@@ -23,8 +23,10 @@
   "bugs": {
     "url": "https://github.com/shepiguai/zzm-cli/issues"
   },
+  "dependencies": {
+    "npmlog": "^5.0.1"
+  },
   "publishConfig": {
     "access": "public"
-  },
-  "gitHead": "00073bd4a20abc504b9e448fc34c5c6fba6a9628"
+  }
 }
